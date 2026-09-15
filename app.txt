@@ -1,4 +1,8 @@
 MASTER VERSION
 FEATURE VERSION
 GIT CHANGE
+<<<<<<< HEAD
 hello
+=======
+hello sir
+>>>>>>> master
